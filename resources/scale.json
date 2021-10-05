@@ -1,0 +1,474 @@
+{
+    "2": {
+      "att_points": 2,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "3": {
+      "att_points": 5,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "4": {
+      "att_points": 2,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "5": {
+      "att_points": 2,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "6": {
+      "att_points": 5,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "7": {
+      "att_points": 2,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "8": {
+      "att_points": 2,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "9": {
+      "att_points": 5,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "10": {
+      "att_points": 3,
+      "common_points": 0,
+      "superior_points": 1,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 1
+    },
+    "11": {
+      "att_points": 5,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "12": {
+      "att_points": 5,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "3_CON",
+      "return_points": 0
+    },
+    "13": {
+      "att_points": 5,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "14": {
+      "att_points": 5,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "15": {
+      "att_points": 5,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "3_CON",
+      "return_points": 0
+    },
+    "16": {
+      "att_points": 5,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "17": {
+      "att_points": 5,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "18": {
+      "att_points": 5,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "3_CON",
+      "return_points": 0
+    },
+    "19": {
+      "att_points": 5,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "20": {
+      "att_points": 6,
+      "common_points": 0,
+      "superior_points": 1,
+      "divine_points": 1,
+      "bonus_points": "0",
+      "return_points": 1
+    },
+    "21": {
+      "att_points": 7,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "1_ALL",
+      "return_points": 0
+    },
+    "22": {
+      "att_points": 7,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "23": {
+      "att_points": 7,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "24": {
+      "att_points": 7,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "1_ALL",
+      "return_points": 0
+    },
+    "25": {
+      "att_points": 7,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "26": {
+      "att_points": 7,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "27": {
+      "att_points": 7,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "1_ALL",
+      "return_points": 0
+    },
+    "28": {
+      "att_points": 7,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "29": {
+      "att_points": 7,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "30": {
+      "att_points": 19,
+      "common_points": 1,
+      "superior_points": 1,
+      "divine_points": 0,
+      "bonus_points": "3_ALL",
+      "return_points": 1
+    },
+    "31": {
+      "att_points": 10,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "32": {
+      "att_points": 10,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "33": {
+      "att_points": 10,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "2_ALL",
+      "return_points": 0
+    },
+    "34": {
+      "att_points": 10,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "35": {
+      "att_points": 10,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "36": {
+      "att_points": 10,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "2_ALL",
+      "return_points": 0
+    },
+    "37": {
+      "att_points": 10,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "38": {
+      "att_points": 10,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "39": {
+      "att_points": 10,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "2_ALL",
+      "return_points": 0
+    },
+    "40": {
+      "att_points": 14,
+      "common_points": 0,
+      "superior_points": 1,
+      "divine_points": 1,
+      "bonus_points": "3_ALL",
+      "return_points": 1
+    },
+    "41": {
+      "att_points": 15,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "42": {
+      "att_points": 15,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "3_ALL",
+      "return_points": 0
+    },
+    "43": {
+      "att_points": 15,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "44": {
+      "att_points": 15,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "45": {
+      "att_points": 15,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "3_ALL",
+      "return_points": 0
+    },
+    "46": {
+      "att_points": 15,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "47": {
+      "att_points": 15,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "48": {
+      "att_points": 15,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "3_ALL",
+      "return_points": 0
+    },
+    "49": {
+      "att_points": 15,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "50": {
+      "att_points": 19,
+      "common_points": 0,
+      "superior_points": 1,
+      "divine_points": 0,
+      "bonus_points": "4_ALL",
+      "return_points": 1
+    },
+    "51": {
+      "att_points": 20,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "4_ALL",
+      "return_points": 0
+    },
+    "52": {
+      "att_points": 20,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "53": {
+      "att_points": 20,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "54": {
+      "att_points": 20,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "4_ALL",
+      "return_points": 0
+    },
+    "55": {
+      "att_points": 20,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "56": {
+      "att_points": 20,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "57": {
+      "att_points": 20,
+      "common_points": 1,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "4_ALL",
+      "return_points": 0
+    },
+    "58": {
+      "att_points": 20,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "59": {
+      "att_points": 20,
+      "common_points": 0,
+      "superior_points": 0,
+      "divine_points": 0,
+      "bonus_points": "0",
+      "return_points": 0
+    },
+    "60": {
+      "att_points": 25,
+      "common_points": 1,
+      "superior_points": 1,
+      "divine_points": 1,
+      "bonus_points": "5_ALL",
+      "return_points": 1
+    }
+  }
